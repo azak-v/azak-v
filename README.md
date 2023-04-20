@@ -1,8 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oi!,+Ciao!,+Hi!,+My+name+is+Victor+Principe;I'm+20+years+old;I'm+from+Brazil/Italia;I'm+Graduating+in+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=azak-v&bg_color=0d1117&color=ffffff&line=ffffff&point=858585&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Oi!,+Ciao!,+Hi!,+My+name+is+Victor+Principe;I'm+20+years+old;I'm+from+Brazil/Italia;I'm+Graduating+in+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=azak-v&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
@@ -85,18 +88,10 @@ Languages and Technologies: `React`, `C++ (Arduino)`, `3D Print`, `HTML`, `CSS`,
 <!--   <img align="center" alt="Cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cs/Cs-original.svg" /> 
  <img align="center" alt=".NET" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" />
   <img align="center" alt="MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />-->
-[![CS](https://skills.thijs.gg/icons?i=cs)](https://pt.wikipedia.org/wiki/cs)
-[![DOTNET](https://skills.thijs.gg/icons?i=dotnet)](https://pt.wikipedia.org/wiki/dotnet)
+[![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
 [![MYSQL](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
-  <br> 
-</div>
-
-<h5>Mobile:</h5>
-
-<div style="display: inline_block">
-
-<!--   <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
-[![React Native](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/react)
+[![CPP](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/cpp)
+[![NODEJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
   <br> 
 </div>
 
@@ -115,6 +110,7 @@ Languages and Technologies: `React`, `C++ (Arduino)`, `3D Print`, `HTML`, `CSS`,
   [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
   [![Eclipse](https://skills.thijs.gg/icons?i=eclipse)](https://pt.wikipedia.org/wiki/eclipse)
   [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
+  [![Arduino](https://skills.thijs.gg/icons?i=arduino)](https://www.arduino.cc)
   <br>
 </div>
 
@@ -128,10 +124,10 @@ Languages and Technologies: `React`, `C++ (Arduino)`, `3D Print`, `HTML`, `CSS`,
   [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
   [![Spring](https://skills.thijs.gg/icons?i=spring)](https://pt.wikipedia.org/wiki/spring)
   [![CPP](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/cpp)
+  [![MYSQL](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
   [![NODEJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
   <br>
 </div>
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
- 

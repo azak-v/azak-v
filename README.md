@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Oi!,+Ciao!,+Hi!,+My+name+is+Victor+Principe;I'm+20+years+old;I'm+from+Brazil/Italia;I'm+Graduating+in+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+<img width="400px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25c93289-0576-4645-bc48-e828abec9740/de2x6xe-aa7e3f5c-dee4-4ad6-9068-d839e28848d7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjVjOTMyODktMDU3Ni00NjQ1LWJjNDgtZTgyOGFiZWM5NzQwXC9kZTJ4NnhlLWFhN2UzZjVjLWRlZTQtNGFkNi05MDY4LWQ4MzllMjg4NDhkNy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.LHxiQ2qy75YibYM9r9FWkVSHovWwmWj9pkG_hQyN5LI">
+</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=azak-v&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -14,6 +18,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azak-v&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 
+<div align="center">
+<img width="60px" src="https://cdnb.artstation.com/p/assets/images/images/058/254/499/original/sanghyeon-lee-yone-run.gif?1673739102">
+<img width="60px" src="https://cdnb.artstation.com/p/assets/images/images/058/257/965/original/sanghyeon-lee-yone-idle.gif?1673752408">
+<img width="60px" src="https://cdnb.artstation.com/p/assets/images/images/058/257/917/original/sanghyeon-lee-yone-attack.gif?1673752262">
+</div>
 
 <div align="center"> 
 <a href="https://www.instagram.com/v.principe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>

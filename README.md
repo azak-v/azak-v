@@ -9,7 +9,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=azak-v&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azak-v&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
@@ -52,7 +52,7 @@ Languages and Technologies: `REACT`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `GML
 
 ## 💼 Professional Experiences:
 
-[<img align="left" height="120px" width="120px" alt="colegiotriviumlogo" src="https://scontent.fssz3-1.fna.fbcdn.net/v/t39.30808-6/305937069_612356070253025_9086396966058318879_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE_30QRo6uOQL4LVw07Je9IW7lRLPvCiJFbuVEs-8KIkUKkyFB0FriyKkD0SERDZlFZKgrzygZz4r2khtSvi8jT&_nc_ohc=ZPJrC5nofVIAX-RaALd&_nc_ht=scontent.fssz3-1.fna&oh=00_AfBJ1-1HQ5--qNOmxudtEottmMoZKXTtnpzLvvKTUHvRkA&oe=6444BE26"/>](http://colegiotrivium.com.br)
+[<img align="left" height="120px" width="120px" alt="colegiotriviumlogo" src="https://ik.imagekit.io/azakv/download.jfif?updatedAt=1687785021600"/>](http://colegiotrivium.com.br)
 
 **STEM Teacher** \
 [**Colégio Trivium**](http://colegiotrivium.com.br) • Teacher \
